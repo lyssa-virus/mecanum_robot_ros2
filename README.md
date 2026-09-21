@@ -11,3 +11,4 @@ Este repositório contém a arquitetura completa de software do Robô Mecanum om
 ## Dispositivos Fixos (udev)
 - Arduino Mega: `/dev/arduino`
 - LiDAR COIN-D6: `/dev/lidar`
+# mecanum_robot_ros2
