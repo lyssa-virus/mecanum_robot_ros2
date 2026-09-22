@@ -1,4 +1,4 @@
-# Projeto Robô Mecanum - ROS 2 Humble
+# Projeto Robô Mecanum TIGO- ROS 2 Humble
 
 Este repositório contém a arquitetura completa de software do Robô Mecanum omnidirecional.
 
